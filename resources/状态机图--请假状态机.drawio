@@ -1,0 +1,135 @@
+<mxfile host="Electron" modified="2023-10-28T08:25:30.223Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/22.0.3 Chrome/114.0.5735.289 Electron/25.8.4 Safari/537.36" etag="0nIZq-r5aeX_oSSPaKD7" version="22.0.3" type="device">
+  <diagram id="43kc6UuAvQm-3ptA1X5p" name="第 1 页">
+    <mxGraphModel dx="1026" dy="743" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="TbDVI9Hwuj9VizPQYW-B-1" value="" style="ellipse;html=1;shape=startState;fillColor=#000000;strokeColor=#ff0000;" parent="1" vertex="1">
+          <mxGeometry x="330" y="140" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TbDVI9Hwuj9VizPQYW-B-2" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;" parent="1" source="TbDVI9Hwuj9VizPQYW-B-1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="345" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TbDVI9Hwuj9VizPQYW-B-4" value="员工提出申请" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="TbDVI9Hwuj9VizPQYW-B-2" vertex="1" connectable="0">
+          <mxGeometry x="-0.2667" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TbDVI9Hwuj9VizPQYW-B-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=openThin;endFill=0;targetPerimeterSpacing=0;endSize=15;startSize=6;" parent="1" source="TbDVI9Hwuj9VizPQYW-B-3" target="TbDVI9Hwuj9VizPQYW-B-6" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TbDVI9Hwuj9VizPQYW-B-26" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;startSize=6;endArrow=openThin;endFill=0;endSize=15;targetPerimeterSpacing=0;" parent="1" source="TbDVI9Hwuj9VizPQYW-B-3" target="TbDVI9Hwuj9VizPQYW-B-5" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TbDVI9Hwuj9VizPQYW-B-28" value="部门经理拒绝申请" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="TbDVI9Hwuj9VizPQYW-B-26" vertex="1" connectable="0">
+          <mxGeometry x="-0.4" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TbDVI9Hwuj9VizPQYW-B-3" value="已提交" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="272.5" y="260" width="145" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="TbDVI9Hwuj9VizPQYW-B-23" value="员工放弃请假申请" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startSize=6;endArrow=openThin;endFill=0;endSize=15;targetPerimeterSpacing=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="TbDVI9Hwuj9VizPQYW-B-5" target="5-8Xp6eXjYfFAgXFbNJq-3" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="345" y="520" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TbDVI9Hwuj9VizPQYW-B-27" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;startSize=6;endArrow=openThin;endFill=0;endSize=15;targetPerimeterSpacing=0;" parent="1" source="TbDVI9Hwuj9VizPQYW-B-5" target="TbDVI9Hwuj9VizPQYW-B-3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TbDVI9Hwuj9VizPQYW-B-29" value="员工修改申请" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="TbDVI9Hwuj9VizPQYW-B-27" vertex="1" connectable="0">
+          <mxGeometry x="-0.42" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TbDVI9Hwuj9VizPQYW-B-5" value="已拒绝待修改" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="272.5" y="410" width="145" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="TbDVI9Hwuj9VizPQYW-B-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startSize=6;endArrow=openThin;endFill=0;endSize=15;targetPerimeterSpacing=0;" parent="1" source="TbDVI9Hwuj9VizPQYW-B-6" target="TbDVI9Hwuj9VizPQYW-B-8" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TbDVI9Hwuj9VizPQYW-B-13" value="副总经理批准申请" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="TbDVI9Hwuj9VizPQYW-B-10" vertex="1" connectable="0">
+          <mxGeometry x="-0.16" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TbDVI9Hwuj9VizPQYW-B-11" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;startSize=6;endArrow=openThin;endFill=0;endSize=15;targetPerimeterSpacing=0;" parent="1" source="TbDVI9Hwuj9VizPQYW-B-6" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="420" y="420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TbDVI9Hwuj9VizPQYW-B-14" value="副总经理拒绝申请" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="TbDVI9Hwuj9VizPQYW-B-11" vertex="1" connectable="0">
+          <mxGeometry x="-0.0664" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TbDVI9Hwuj9VizPQYW-B-6" value="部门经理批准" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="620" y="260" width="145" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="TbDVI9Hwuj9VizPQYW-B-12" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;startSize=6;endArrow=openThin;endFill=0;endSize=15;targetPerimeterSpacing=0;" parent="1" source="TbDVI9Hwuj9VizPQYW-B-8" target="TbDVI9Hwuj9VizPQYW-B-5" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TbDVI9Hwuj9VizPQYW-B-16" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startSize=6;endArrow=openThin;endFill=0;endSize=15;targetPerimeterSpacing=0;" parent="1" source="TbDVI9Hwuj9VizPQYW-B-8" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="920" y="435" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TbDVI9Hwuj9VizPQYW-B-19" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startSize=6;endArrow=openThin;endFill=0;endSize=15;targetPerimeterSpacing=0;" parent="1" source="TbDVI9Hwuj9VizPQYW-B-8" target="TbDVI9Hwuj9VizPQYW-B-18" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TbDVI9Hwuj9VizPQYW-B-20" value="总经理批准申请&lt;br&gt;[请假时间 &amp;gt; 3 天]" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="TbDVI9Hwuj9VizPQYW-B-19" vertex="1" connectable="0">
+          <mxGeometry x="-0.2364" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TbDVI9Hwuj9VizPQYW-B-8" value="副总经理已批准" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="620" y="410" width="145" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="TbDVI9Hwuj9VizPQYW-B-9" value="部门经理批准申请" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
+          <mxGeometry x="460" y="250" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="TbDVI9Hwuj9VizPQYW-B-17" value="[请假时长 &amp;lt;= 3 天]" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
+          <mxGeometry x="775" y="410" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="TbDVI9Hwuj9VizPQYW-B-21" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=1;entryDx=0;entryDy=0;startSize=6;endArrow=openThin;endFill=0;endSize=15;targetPerimeterSpacing=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" parent="1" source="TbDVI9Hwuj9VizPQYW-B-18" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="924.3933982822018" y="445.6066017177982" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TbDVI9Hwuj9VizPQYW-B-18" value="总经理已批准" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="620" y="535" width="145" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="TbDVI9Hwuj9VizPQYW-B-22" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" parent="1" vertex="1">
+          <mxGeometry x="330" y="640" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TbDVI9Hwuj9VizPQYW-B-24" value="&lt;span style=&quot;font-size: 11px ; background-color: rgb(255 , 255 , 255)&quot;&gt;总经理拒绝申请&lt;/span&gt;&lt;br style=&quot;font-size: 11px&quot;&gt;&lt;span style=&quot;font-size: 11px ; background-color: rgb(255 , 255 , 255)&quot;&gt;[请假时间 &amp;gt; 3 天]&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
+          <mxGeometry x="465" y="440" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="XEP-vHDn6laRG1Z_mM_3-2" value="状态与状态之间的箭头叫做“转换”，箭头上的&lt;br&gt;文字说明了什么事情导致了状态发生变化。说明文字要带上主语。&lt;br&gt;&lt;br&gt;[] 这段内容叫做“监护”，表示某个条件，状态机的分支结构是靠多个转换表示的，转换加上监护，表名执行这个转换应该具备的条件。" style="shape=note;whiteSpace=wrap;html=1;size=14;verticalAlign=top;align=left;spacingTop=-6;" parent="1" vertex="1">
+          <mxGeometry x="50" y="790" width="250" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="5-8Xp6eXjYfFAgXFbNJq-1" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;请假申请状态机图&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;fontFamily=Architects Daughter;" vertex="1" parent="1">
+          <mxGeometry x="260" y="690" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="5-8Xp6eXjYfFAgXFbNJq-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=open;endFill=0;endSize=12;" edge="1" parent="1" source="5-8Xp6eXjYfFAgXFbNJq-3" target="TbDVI9Hwuj9VizPQYW-B-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5-8Xp6eXjYfFAgXFbNJq-3" value="已撤销" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="272.5" y="535" width="145" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="5-8Xp6eXjYfFAgXFbNJq-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=open;endFill=0;endSize=12;" edge="1" parent="1" source="5-8Xp6eXjYfFAgXFbNJq-5" target="5-8Xp6eXjYfFAgXFbNJq-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5-8Xp6eXjYfFAgXFbNJq-5" value="已批准" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="930" y="410" width="145" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="5-8Xp6eXjYfFAgXFbNJq-6" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="987.5" y="545" width="30" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
