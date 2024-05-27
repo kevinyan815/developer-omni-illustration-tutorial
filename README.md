@@ -11,4 +11,6 @@ An omni illustration tutorial for developers about how to illustrate system usin
   -  [状态机图实战--营销运营活动绘图源文件](https://github.com/kevinyan815/developer-omni-illustration-tutorial/blob/master/resources/%E7%8A%B6%E6%80%81%E6%9C%BA%E5%9B%BE--%E8%BF%90%E8%90%A5%E8%90%A5%E9%94%80%E6%B4%BB%E5%8A%A8.drawio)
 - UML 顺序图 (Sequence diagram)
   - [UML 顺序图实战--绘图源文件](https://github.com/kevinyan815/developer-omni-illustration-tutorial/blob/master/resources/%E9%A1%BA%E5%BA%8F%E5%9B%BE%E5%AE%9E%E6%88%98%E6%95%99%E5%AD%A6.vsdx)
+- UML 用例图（Use case diagram）
+  - [UML 用例图实战--绘图源文件](https://github.com/kevinyan815/developer-omni-illustration-tutorial/blob/master/resources/%E7%94%A8%E4%BE%8B%E5%9B%BE--%E5%AE%9E%E6%88%98%E5%8F%82%E8%80%83.vsdx)
 
