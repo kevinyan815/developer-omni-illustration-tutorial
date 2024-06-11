@@ -14,5 +14,5 @@ An omni illustration tutorial for developers about how to illustrate system usin
 - UML 用例图（Use case diagram）
   - [UML 用例图实战--绘图源文件](https://github.com/kevinyan815/developer-omni-illustration-tutorial/blob/master/resources/%E7%94%A8%E4%BE%8B%E5%9B%BE--%E5%AE%9E%E6%88%98%E5%8F%82%E8%80%83.vsdx)
 - UML部署图和构件图
-  - 用UML部署图和构件图画系统架构图(https://github.com/kevinyan815/developer-omni-illustration-tutorial/blob/master/resources/%E7%94%A8%E6%88%B7%E9%83%A8%E7%BD%B2%E5%9B%BE%E5%92%8C%E6%9E%84%E4%BB%B6%E7%94%BB%E7%B3%BB%E7%BB%9F%E6%9E%B6%E6%9E%84--%E7%BB%98%E5%9B%BE%E6%BA%90%E6%96%87%E4%BB%B6.vsdx)
+  - [用UML部署图和构件图画系统架构图](https://github.com/kevinyan815/developer-omni-illustration-tutorial/blob/master/resources/%E7%94%A8%E6%88%B7%E9%83%A8%E7%BD%B2%E5%9B%BE%E5%92%8C%E6%9E%84%E4%BB%B6%E7%94%BB%E7%B3%BB%E7%BB%9F%E6%9E%B6%E6%9E%84--%E7%BB%98%E5%9B%BE%E6%BA%90%E6%96%87%E4%BB%B6.vsdx)
 
