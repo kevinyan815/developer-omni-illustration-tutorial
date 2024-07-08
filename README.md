@@ -18,3 +18,10 @@ An omni illustration tutorial for developers about how to illustrate system usin
 - UML 包图 
   - [UML包图，表达软件分层架构 & 对业务模型进归类](https://github.com/kevinyan815/developer-omni-illustration-tutorial/blob/master/resources/%E5%8C%85%E5%9B%BE.vsdx)
 
+
+- 汇报类用图
+  - [业务场景图--媒体投放业务场景](https://github.com/kevinyan815/developer-omni-illustration-tutorial/blob/master/resources/%E4%B8%9A%E5%8A%A1%E5%9C%BA%E6%99%AF%E5%9B%BE--%E5%AA%92%E4%BD%93%E6%8A%95%E6%94%BE%E5%9B%9E%E4%BC%A0.vsdx)
+  - [业务场景图--会员业务场景](https://github.com/kevinyan815/developer-omni-illustration-tutorial/blob/master/resources/%E4%B8%9A%E5%8A%A1%E5%9C%BA%E6%99%AF%E5%9B%BE--%E4%BC%9A%E5%91%98%E4%B8%9A%E5%8A%A1.vsdx)
+  - [业务架构图--微信业务架构](https://github.com/kevinyan815/developer-omni-illustration-tutorial/blob/master/resources/%E4%B8%9A%E5%8A%A1%E6%9E%B6%E6%9E%84%E5%9B%BE--%E5%BE%AE%E4%BF%A1%E4%B8%9A%E5%8A%A1%E6%9E%B6%E6%9E%84.vsdx)
+  - [业务架构图--支付平台业务架构](https://github.com/kevinyan815/developer-omni-illustration-tutorial/blob/master/resources/%E4%B8%9A%E5%8A%A1%E6%9E%B6%E6%9E%84--%E6%94%AF%E4%BB%98%E4%B8%9A%E5%8A%A1%E6%9E%B6%E6%9E%84.vsdx)
+
