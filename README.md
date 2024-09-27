@@ -3,6 +3,7 @@ An omni illustration tutorial for developers about how to illustrate system usin
 
 - UML 类图 (Class diagram)
   - [UML 类图实战--绘图源文件](https://github.com/kevinyan815/developer-omni-illustration-tutorial/blob/master/resources/%E7%B1%BB%E5%9B%BE%E6%95%99%E5%AD%A6-ClassDiagram.vsdx)
+  - [UML 类图实战--AI 绘本图书--业务建模分析](https://github.com/kevinyan815/developer-omni-illustration-tutorial/blob/master/resources/AI%E7%BB%98%E6%9C%AC%E6%9C%89%E5%A3%B0%E4%B9%A6%E4%B8%9A%E5%8A%A1%E6%A6%82%E5%BF%B5.vsdx)
 - UML 活动图(Activity diagram)
   - [UML活动图实战--绘图源文件](https://github.com/kevinyan815/developer-omni-illustration-tutorial/blob/master/resources/%E6%B4%BB%E5%8A%A8%E5%9B%BE%E5%AE%9E%E6%88%98--%20ActivityDiagram.vsdx)  
 - UML 状态机图(State machine diagram)
@@ -24,4 +25,5 @@ An omni illustration tutorial for developers about how to illustrate system usin
   - [业务场景图--会员业务场景](https://github.com/kevinyan815/developer-omni-illustration-tutorial/blob/master/resources/%E4%B8%9A%E5%8A%A1%E5%9C%BA%E6%99%AF%E5%9B%BE--%E4%BC%9A%E5%91%98%E4%B8%9A%E5%8A%A1.vsdx)
   - [业务架构图--微信业务架构](https://github.com/kevinyan815/developer-omni-illustration-tutorial/blob/master/resources/%E4%B8%9A%E5%8A%A1%E6%9E%B6%E6%9E%84%E5%9B%BE--%E5%BE%AE%E4%BF%A1%E4%B8%9A%E5%8A%A1%E6%9E%B6%E6%9E%84.vsdx)
   - [业务架构图--支付平台业务架构](https://github.com/kevinyan815/developer-omni-illustration-tutorial/blob/master/resources/%E4%B8%9A%E5%8A%A1%E6%9E%B6%E6%9E%84--%E6%94%AF%E4%BB%98%E4%B8%9A%E5%8A%A1%E6%9E%B6%E6%9E%84.vsdx)
+  - [业务架构图--青春版--会员系统的业务架构](https://github.com/kevinyan815/developer-omni-illustration-tutorial/blob/master/resources/%E4%BC%9A%E5%91%98%E7%B3%BB%E7%BB%9F%E4%B8%9A%E5%8A%A1%E6%9E%B6%E6%9E%84.vsdx)
 
